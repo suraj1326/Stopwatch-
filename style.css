@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.display-4 {
+    font-size: 3rem;
+}
+
+button {
+    width: 100px;
+    margin: 0 10px;
+}
